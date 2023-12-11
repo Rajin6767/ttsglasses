@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="302a2bb4-b13c-4ff5-b26d-cec35571e85c" name="name">
+        <fileTransfer rootFolder="/home/uncpi" accessType="SFTP" host="172.18.28.131" port="22" sshConfigId="7e07e2aa-4756-4a86-90d7-8929a95ad5ff" sshConfig="uncpi@172.18.28.131:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" isUseSudo="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
